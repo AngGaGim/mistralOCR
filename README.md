@@ -24,6 +24,11 @@ cd mistralOCR
 ```bash
 pip install -r requirements.txt
 ```
+mac 安装tkinter：
+```
+brew install python-tk@3.11
+```
+@后面的版本号需和虚拟环境的解释器版本匹配
 
 ## 使用方法
 
